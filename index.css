@@ -1,0 +1,158 @@
+.navbar-container{
+    background-color: #1a1433;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.logos{
+    color: white;
+    font-size: 20px;
+    margin-right: 8px;
+}
+
+.tollfree-icon{
+    font-size: 25px;
+    margin-right: 5px;
+
+}
+
+.toll-free-text{
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.navbar-text{
+    color: white;
+    font-family: roboto;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 12px;
+}
+.navbar-text-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 8px;
+    
+}
+
+.btn{
+    font-size: 16px;
+    font-family: roboto;
+    margin-left: 10px;
+    align-self: stretch;
+}
+
+.hospione-logo-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding-left: 55px;
+    padding-right: 55px;
+    
+}
+
+.btn-appiontment{
+    border-width:0 ;
+    border-radius: 20px;
+    height: 40px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-family: roboto;
+}
+
+.btn-location{
+    border-radius: 20px;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-family: roboto;
+    
+}
+
+.body-part-container{
+    background-color: #f8faf5;
+    border-bottom: solid #a0faf8 1px;
+    padding-top: 10px;
+ 
+}
+
+.body-part-icon{
+    height: 50px;
+    width: 50px;
+}
+
+.body-part{
+    font-family: roboto;
+}
+
+.right-arrow{
+    color: skyblue;
+    font-size: 30px;
+}
+
+.view-all{
+    margin-top: 18px;
+}
+
+.consult-conainer{
+    width: 40%;
+}
+.rounded-logos{
+    height: 60px;
+    width: 60px;
+    border: solid 1px gray;
+    border-radius: 30px;
+}
+
+.rounded-logos-text{
+    font-family: roboto;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+.btn-book{
+    color: white;
+    height: 40px;
+    border-width: 0;
+    border-radius: 15px;
+    font-family: roboto;
+    font-size: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.btn-contact{
+    height: 40px;
+    
+    border-radius: 15px;
+    font-family: roboto;
+    font-size: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.specialities-container{
+    
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 -6px 0 #fff, 0 1px 6px rgba(0,0,0, .35);
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    height: 150px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
